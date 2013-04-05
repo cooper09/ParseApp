@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Android Test": {
+            "applicationId": "yayMUeLJ5oEZTY99rX8H0BVpqEJE7Zx1EM1YS74p", 
+            "masterKey": "Jm5Ad4pHwZAyVn6OUWuHxHTyUAlw61DMSjTOfDOa"
+        }, 
+        "_default": {
+            "link": "Android Test"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.2"
+    }
+}
